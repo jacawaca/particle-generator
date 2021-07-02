@@ -1,0 +1,12 @@
+#centralnosc
+1
+#ped
+5
+#polozenie
+5
+#ilosc zderzen
+2
+#plik wynikowy
+wynik.data
+#tryb glosny
+1
